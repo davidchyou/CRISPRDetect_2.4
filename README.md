@@ -10,4 +10,4 @@ To filter CRISPR arrays by array-quality score it is now in the GFF output. To r
 
 **Correct array orientation prediction especially in Type-2 CRISPR-Cas systems**
 
-CRISPRDetect uses a built-in repeat database to predict orientations of CRISPR-arrays predicted, along with other criteria such as the stability of any RNA folds. This wasimproved by updating the repeat database (July 2019), to include many more repeat sequences of published CRISPR arrays of all types, including many Type-2 CRISPR-Cas systems.
+CRISPRDetect uses a built-in repeat database to predict orientations of CRISPR-arrays predicted, along with other criteria such as the stability of any RNA folds. This was improved by updating the repeat database (July 2019), to include many more repeat sequences of published CRISPR arrays of all types, including many Type-2 CRISPR-Cas systems. 
