@@ -1,6 +1,6 @@
 # CRISPRDetect_2.4
 
-This is the current version of CRISPRDetect (as running here http://bioanalysis.otago.ac.nz/CRISPRDetect, 2019). In this version, the following features were improved:
+This is the current version of CRISPRDetect (as running here http://bioanalysis.otago.ac.nz/CRISPRDetect, 2019). In this version 2.4, the following features were improved:
 
 **Array-quality score is now in the GFF output**
 
